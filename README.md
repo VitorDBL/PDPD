@@ -1,6 +1,6 @@
 # PDPD - Grafos de Conhecimento para Análise de Avaliações de Hotéis
 
-Este repositório contém uma coleção de notebooks do Google Colab relacionados a diferentes tópicos.
+Este repositório contém os notebooks dos códigos relacionados a iniciação científica sobre grafos de conhecimento.
 
 ## Notebooks Disponíveis
 
@@ -12,8 +12,4 @@ Este repositório contém uma coleção de notebooks do Google Colab relacionado
 ## Como Usar
 
 Clique nos links acima para abrir os notebooks correspondentes no Google Colab. Você pode executar e modificar o código conforme necessário diretamente no navegador.
-
-## Contribuindo
-
-Sinta-se à vontade para contribuir com novos notebooks ou fazer melhorias nos existentes. Basta enviar um pull request!
 
