@@ -10,7 +10,7 @@ Este repositório contém os notebooks dos códigos relacionados à iniciação 
    Este notebook utiliza a API da OpenAI para extrair automaticamente as entidades a partir das avaliações e, em seguida, gera grafos de conhecimento.
 
 2. [Geração de Grafos e Consultas em Neo4j](https://colab.research.google.com/drive/1lJtxDg1WB4MVmuMl9EDcIq77neA4tMUJ?authuser=1)  
-   Contém todas as avaliações utilizadas e o código para gerar grafos no Neo4j.
+   Contém todas as avaliações utilizadas e o código para gerar o grafo no Neo4j das 10 avaliações.
 
 3. [Geração de Códigos Neo4j Utilizando a API da OpenAI](https://colab.research.google.com/drive/1knw8Q8J5OlluRTAkHTVlfQIGAubVORtG?authuser=1)  
    Utiliza a API da OpenAI para gerar automaticamente os códigos Cypher necessários para a construção de grafos no Neo4j.
