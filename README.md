@@ -4,7 +4,7 @@ Este repositório contém os notebooks dos códigos relacionados à iniciação 
 
 ## Notebooks Disponíveis
 
-### Novas Abordagens
+### Notebooks
 
 1. [Utilizando a API da OpenAI para Extrair Entidades e Gerar Grafos](https://colab.research.google.com/drive/1yM3xBMxKKN9a_dR16NKBumNtKdlu0MRu?authuser=1)  
    Este notebook utiliza a API da OpenAI para extrair automaticamente as entidades a partir das avaliações e, em seguida, gera grafos de conhecimento.
