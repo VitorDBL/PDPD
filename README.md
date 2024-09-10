@@ -18,10 +18,6 @@ Este repositório contém os notebooks dos códigos relacionados à iniciação 
 4. [Perguntas e Respostas com Neo4j](https://colab.research.google.com/drive/14PYOnIBKH0iaxuXJJhxoTBi2J-3A5Bq4?authuser=1)  
    Este notebook permite realizar consultas em linguagem natural utilizando Neo4j para obter respostas com base nos grafos.
 
-### Abordagens Antigas
-
-1. [Hotel Brasileiro](https://colab.research.google.com/drive/1r98lBa1oiM0A4MXJe94gKQ4KMY9JHsAu?usp=sharing)
-2. [Hotel Americano](https://colab.research.google.com/drive/1kytOPo5qZQ_sx2KDjyFAxv0RIjQ9r2Hl?usp=sharing)
 
 ## Como Usar
 
